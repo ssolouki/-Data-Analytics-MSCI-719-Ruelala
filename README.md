@@ -1,0 +1,1 @@
+The demand of new products are estimated by associating them with categories of products with known demands. The categorization is performed by KNN clustering method. The estimated demands together with other specifications of the products are used to predict their demand behavior and ultimately to maximize the revenue.
